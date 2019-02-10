@@ -1,0 +1,3160 @@
+digraph {
+A1->A2
+A1->B45
+A1 [label=A]
+A1 [shape=diamond]
+A2->H3
+A2->L10
+A2->R15
+A2->S38
+A2 [label=A]
+A2 [shape=box]
+B45->A46
+B45->B210
+B45->C266
+B45->D277
+B45->E355
+B45->F474
+B45->H480
+B45->I519
+B45->J635
+B45->L689
+B45->M780
+B45->N784
+B45->O827
+B45 [label=B]
+B45 [shape=box]
+H3->E4
+H3->I6
+H3->S9
+H3 [label=H]
+H3 [shape=box]
+L10->I11
+L10->S14
+L10 [label=L]
+L10 [shape=box]
+R15->D16
+R15->G29
+R15->R31
+R15->T35
+R15 [label=R]
+R15 [shape=diamond]
+S38->V39
+S38 [label=S]
+S38 [shape=box]
+A46->C47
+A46->F72
+A46->K74
+A46->L77
+A46->M82
+A46->N89
+A46->P121
+A46->S126
+A46->T163
+A46->X201
+A46->Y207
+A46 [label=A]
+A46 [shape=box]
+B210->A211
+B210->E222
+B210->O230
+B210->R242
+B210->S265
+B210 [label=B]
+B210 [shape=box]
+C266->E267
+C266->O270
+C266 [label=C]
+C266 [shape=diamond]
+D277->A278
+D277->I281
+D277->O304
+D277->U325
+D277 [label=D]
+D277 [shape=diamond]
+E355->A356
+E355->C363
+E355->D372
+E355->G373
+E355->I378
+E355->L381
+E355->R393
+E355->S436
+E355->T442
+E355->Y463
+E355 [label=E]
+E355 [shape=diamond]
+F474->A475
+F474 [label=F]
+F474 [shape=diamond]
+H480->E481
+H480->O489
+H480 [label=H]
+H480 [shape=diamond]
+I519->D520
+I519->E540
+I519->G545
+I519->L550
+I519->O557
+I519->R611
+I519->T626
+I519 [label=I]
+I519 [shape=diamond]
+J635->E636
+J635->O656
+J635->U666
+J635 [label=J]
+J635 [shape=diamond]
+L689->A690
+L689->E729
+L689->I747
+L689->O752
+L689->U756
+L689->Y779
+L689 [label=L]
+L689 [shape=diamond]
+M780->H781
+M780 [label=M]
+M780 [shape=diamond]
+N784->E785
+N784->O801
+N784 [label=N]
+N784 [shape=diamond]
+O827->A828
+O827->D831
+O827->H843
+O827->I846
+O827->L860
+O827->M900
+O827->N933
+O827->O947
+O827->R949
+O827->S1044
+O827->U1045
+O827 [label=O]
+O827 [shape=box]
+E4->D5
+E4 [label=E]
+E4 [shape=diamond]
+I6->N7
+I6 [label=I]
+I6 [shape=diamond]
+S9 [label=S]
+S9 [shape=box]
+I11->I12
+I11 [label=I]
+I11 [shape=diamond]
+S14 [label=S]
+S14 [shape=box]
+D16->V17
+D16->W22
+D16 [label=D]
+D16 [shape=diamond]
+G29->H30
+G29 [label=G]
+G29 [shape=diamond]
+R31->G32
+R31 [label=R]
+R31 [shape=diamond]
+T35->I36
+T35 [label=T]
+T35 [shape=diamond]
+V39->O40
+V39 [label=V]
+V39 [shape=diamond]
+C47->A48
+C47->I50
+C47->K51
+C47->S52
+C47->T53
+C47->U68
+C47 [label=C]
+C47 [shape=box]
+F72->T73
+F72 [label=F]
+F72 [shape=diamond]
+K74->A75
+K74 [label=K]
+K74 [shape=diamond]
+L77->O78
+L77 [label=L]
+L77 [shape=diamond]
+M82->P83
+M82 [label=M]
+M82 [shape=diamond]
+N89->D90
+N89 [label=N]
+N89 [shape=diamond]
+P121->I122
+P121 [label=P]
+P121 [shape=diamond]
+S126->E127
+S126->H139
+S126->I157
+S126->K162
+S126 [label=S]
+S126 [shape=box]
+T163->A164
+T163->E168
+T163->I178
+T163->O184
+T163->T187
+T163->U197
+T163 [label=T]
+T163 [shape=diamond]
+X201->I202
+X201 [label=X]
+X201 [shape=diamond]
+Y207->A208
+Y207 [label=Y]
+Y207 [shape=diamond]
+A211->C212
+A211->S217
+A211->T218
+A211 [label=A]
+A211 [shape=box]
+E222->D223
+E222->S224
+E222->Y228
+E222 [label=E]
+E222 [shape=box]
+O230->T231
+O230 [label=O]
+O230 [shape=diamond]
+R242->E243
+R242 [label=R]
+R242 [shape=diamond]
+S265 [label=S]
+S265 [shape=box]
+E267->E268
+E267 [label=E]
+E267 [shape=diamond]
+O270->U271
+O270 [label=O]
+O270 [shape=diamond]
+A278->B279
+A278 [label=A]
+A278 [shape=diamond]
+I281->C282
+I281 [label=I]
+I281 [shape=diamond]
+O304->M305
+O304 [label=O]
+O304 [shape=diamond]
+U325->C326
+U325 [label=U]
+U325 [shape=diamond]
+A356->M357
+A356->R358
+A356 [label=A]
+A356 [shape=diamond]
+C363->E364
+C363 [label=C]
+C363 [shape=diamond]
+D372 [label=D]
+D372 [shape=box]
+G373->G374
+G373 [label=G]
+G373 [shape=diamond]
+I378->G379
+I378 [label=I]
+I378 [shape=diamond]
+L381->E382
+L381->I384
+L381->M388
+L381 [label=L]
+L381 [shape=diamond]
+R393->D394
+R393->N401
+R393->R409
+R393->S435
+R393 [label=R]
+R393 [shape=box]
+S436->S437
+S436 [label=S]
+S436 [shape=diamond]
+T442->M443
+T442->S448
+T442->T449
+T442 [label=T]
+T442 [shape=box]
+Y463->A464
+Y463 [label=Y]
+Y463 [shape=diamond]
+A475->R476
+A475 [label=A]
+A475 [shape=diamond]
+E481->N482
+E481 [label=E]
+E481 [shape=diamond]
+O489->M490
+O489->R497
+O489 [label=O]
+O489 [shape=diamond]
+D520->A521
+D520->D526
+D520->E529
+D520->I534
+D520 [label=D]
+D520 [shape=box]
+E540->S541
+E540->T542
+E540 [label=E]
+E540 [shape=diamond]
+G545->A546
+G545 [label=G]
+G545 [shape=diamond]
+L550->I551
+L550 [label=L]
+L550 [shape=diamond]
+O557->G558
+O557->L583
+O557->S590
+O557->T595
+O557 [label=O]
+O557 [shape=diamond]
+R611->R612
+R611 [label=R]
+R611 [shape=diamond]
+T626->U627
+T626 [label=T]
+T626 [shape=diamond]
+E636->C637
+E636 [label=E]
+E636 [shape=diamond]
+O656->I657
+O656 [label=O]
+O656 [shape=diamond]
+U666->N667
+U666->R674
+U666 [label=U]
+U666 [shape=diamond]
+A690->C691
+A690->T699
+A690->U724
+A690->Z727
+A690 [label=A]
+A690 [shape=diamond]
+E729->D730
+E729->G731
+E729->I736
+E729->R742
+E729->S743
+E729->T745
+E729 [label=E]
+E729 [shape=box]
+I747->N748
+I747 [label=I]
+I747 [shape=diamond]
+O752->O753
+O752->W755
+O752 [label=O]
+O752 [shape=diamond]
+U756->E757
+U756->S761
+U756->T763
+U756 [label=U]
+U756 [shape=diamond]
+Y779 [label=Y]
+Y779 [shape=box]
+H781->O782
+H781 [label=H]
+H781 [shape=diamond]
+E785->G786
+E785 [label=E]
+E785 [shape=diamond]
+O801->R802
+O801 [label=O]
+O801 [shape=diamond]
+A828->R829
+A828 [label=A]
+A828 [shape=diamond]
+D831->E832
+D831->I840
+D831 [label=D]
+D831 [shape=diamond]
+H843->M844
+H843 [label=H]
+H843 [shape=diamond]
+I846->D847
+I846->L853
+I846->T854
+I846 [label=I]
+I846 [shape=diamond]
+L860->I861
+L860->L896
+L860 [label=L]
+L860 [shape=diamond]
+M900->A901
+M900->I909
+M900 [label=M]
+M900 [shape=diamond]
+N933->D934
+N933->N940
+N933 [label=N]
+N933 [shape=diamond]
+O947->N948
+O947 [label=O]
+O947 [shape=diamond]
+R949->A950
+R949->D954
+R949->E961
+R949->I962
+R949->N986
+R949->T991
+R949 [label=R]
+R949 [shape=diamond]
+S1044 [label=S]
+S1044 [shape=box]
+U1045->G1046
+U1045->L1049
+U1045 [label=U]
+U1045 [shape=diamond]
+D5 [label=D]
+D5 [shape=box]
+N7->G8
+N7 [label=N]
+N7 [shape=diamond]
+I12->S13
+I12 [label=I]
+I12 [shape=box]
+V17->A18
+V17 [label=V]
+V17 [shape=diamond]
+W22->O23
+W22 [label=W]
+W22 [shape=diamond]
+H30 [label=H]
+H30 [shape=box]
+G32->H33
+G32 [label=G]
+G32 [shape=diamond]
+I36->S37
+I36 [label=I]
+I36 [shape=box]
+O40->G41
+O40 [label=O]
+O40 [shape=diamond]
+A48->S49
+A48 [label=A]
+A48 [shape=box]
+I50 [label=I]
+I50 [shape=box]
+K51 [label=K]
+K51 [shape=box]
+S52 [label=S]
+S52 [shape=box]
+T53->E54
+T53->I59
+T53->O65
+T53 [label=T]
+T53 [shape=diamond]
+U68->S69
+U68 [label=U]
+U68 [shape=diamond]
+T73 [label=T]
+T73 [shape=box]
+A75->S76
+A75 [label=A]
+A75 [shape=box]
+O78->N79
+O78 [label=O]
+O78 [shape=diamond]
+P83->E84
+P83->S88
+P83 [label=P]
+P83 [shape=box]
+D90->E91
+D90->I93
+D90->O96
+D90->S120
+D90 [label=D]
+D90 [shape=box]
+I122->C123
+I122 [label=I]
+I122 [shape=diamond]
+E127->D128
+E127->M131
+E127->R136
+E127->S138
+E127 [label=E]
+E127 [shape=box]
+H139->E140
+H139->I145
+H139->L148
+H139->M152
+H139 [label=H]
+H139 [shape=box]
+I157->A158
+I157->N160
+I157 [label=I]
+I157 [shape=diamond]
+K162 [label=K]
+K162 [shape=box]
+A164->B165
+A164 [label=A]
+A164 [shape=diamond]
+E168->D169
+E168->M170
+E168->R175
+E168->S177
+E168 [label=E]
+E168 [shape=box]
+I178->N179
+I178->S181
+I178 [label=I]
+I178 [shape=diamond]
+O184->R185
+O184 [label=O]
+O184 [shape=diamond]
+T187->I188
+T187->O192
+T187->U196
+T187 [label=T]
+T187 [shape=diamond]
+U197->R198
+U197 [label=U]
+U197 [shape=diamond]
+I202->A203
+I202->L205
+I202 [label=I]
+I202 [shape=diamond]
+A208->S209
+A208 [label=A]
+A208 [shape=box]
+C212->I213
+C212->Y216
+C212 [label=C]
+C212 [shape=diamond]
+S217 [label=S]
+S217 [shape=box]
+T218->I219
+T218 [label=T]
+T218 [shape=diamond]
+D223 [label=D]
+D223 [shape=box]
+S224->S225
+S224 [label=S]
+S224 [shape=box]
+Y228->S229
+Y228 [label=Y]
+Y228 [shape=box]
+T231->C232
+T231->S237
+T231 [label=T]
+T231 [shape=box]
+E243->V244
+E243 [label=E]
+E243 [shape=diamond]
+E268->S269
+E268 [label=E]
+E268 [shape=box]
+U271->L272
+U271 [label=U]
+U271 [shape=diamond]
+B279->S280
+B279 [label=B]
+B279 [shape=diamond]
+C282->A283
+C282 [label=C]
+C282 [shape=diamond]
+M305->E306
+M305->I309
+M305 [label=M]
+M305 [shape=diamond]
+C326->E327
+C326->I335
+C326->T338
+C326 [label=C]
+C326 [shape=diamond]
+M357 [label=M]
+M357 [shape=box]
+R358->I359
+R358->S362
+R358 [label=R]
+R358 [shape=box]
+E364->D365
+E364 [label=E]
+E364 [shape=diamond]
+G374->I375
+G374 [label=G]
+G374 [shape=diamond]
+G379->H380
+G379 [label=G]
+G379 [shape=diamond]
+E382->S383
+E382 [label=E]
+E382 [shape=box]
+I384->A385
+I384 [label=I]
+I384 [shape=diamond]
+M388->O389
+M388 [label=M]
+M388 [shape=diamond]
+D394->E395
+D394 [label=D]
+D394 [shape=diamond]
+N401->E402
+N401 [label=N]
+N401 [shape=diamond]
+R409->A410
+R409 [label=R]
+R409 [shape=diamond]
+S435 [label=S]
+S435 [shape=box]
+S437->I438
+S437 [label=S]
+S437 [shape=diamond]
+M443->E444
+M443 [label=M]
+M443 [shape=diamond]
+S448 [label=S]
+S448 [shape=box]
+T449->A450
+T449->E453
+T449->I457
+T449->O460
+T449 [label=T]
+T449 [shape=diamond]
+A464->N465
+A464 [label=A]
+A464 [shape=diamond]
+R476->A477
+R476 [label=R]
+R476 [shape=diamond]
+N482->R483
+N482 [label=N]
+N482 [shape=diamond]
+M490->I491
+M490 [label=M]
+M490 [shape=diamond]
+R497->R498
+R497->S518
+R497 [label=R]
+R497 [shape=box]
+A521->N522
+A521 [label=A]
+A521 [shape=diamond]
+D526->E527
+D526 [label=D]
+D526 [shape=diamond]
+E529->D530
+E529->R531
+E529->S533
+E529 [label=E]
+E529 [shape=box]
+I534->N535
+I534 [label=I]
+I534 [shape=diamond]
+S541 [label=S]
+S541 [shape=box]
+T542->I543
+T542 [label=T]
+T542 [shape=diamond]
+A546->I547
+A546 [label=A]
+A546 [shape=diamond]
+I551->T552
+I551 [label=I]
+I551 [shape=diamond]
+G558->E559
+G558 [label=G]
+G558 [shape=diamond]
+L583->O584
+L583 [label=L]
+L583 [shape=diamond]
+S590->E591
+S590->I593
+S590 [label=S]
+S590 [shape=diamond]
+T595->I596
+T595->R602
+T595 [label=T]
+T595 [shape=diamond]
+R612->I613
+R612 [label=R]
+R612 [shape=diamond]
+U627->R628
+U627 [label=U]
+U627 [shape=diamond]
+C637->T638
+C637 [label=C]
+C637 [shape=diamond]
+I657->N658
+I657 [label=I]
+I657 [shape=diamond]
+N667->C668
+N667 [label=N]
+N667 [shape=diamond]
+R674->A675
+R674->E681
+R674->I686
+R674 [label=R]
+R674 [shape=diamond]
+C691->T692
+C691 [label=C]
+C691 [shape=diamond]
+T699->E700
+T699->I703
+T699->O721
+T699 [label=T]
+T699 [shape=diamond]
+U724->T725
+U724 [label=U]
+U724 [shape=diamond]
+Z727->E728
+Z727 [label=Z]
+Z727 [shape=diamond]
+D730 [label=D]
+D730 [shape=box]
+G731->A732
+G731 [label=G]
+G731 [shape=diamond]
+I736->S737
+I736 [label=I]
+I736 [shape=diamond]
+R742 [label=R]
+R742 [shape=box]
+S743->T744
+S743 [label=S]
+S743 [shape=box]
+T745->S746
+T745 [label=T]
+T745 [shape=box]
+N748->G749
+N748->S751
+N748 [label=N]
+N748 [shape=diamond]
+O753->M754
+O753 [label=O]
+O753 [shape=diamond]
+W755 [label=W]
+W755 [shape=box]
+E757->N758
+E757 [label=E]
+E757 [shape=diamond]
+S761->H762
+S761 [label=S]
+S761 [shape=diamond]
+T763->E764
+T763->I766
+T763->O773
+T763 [label=T]
+T763 [shape=diamond]
+O782->S783
+O782 [label=O]
+O782 [shape=box]
+G786->A787
+G786 [label=G]
+G786 [shape=diamond]
+R802->M803
+R802 [label=R]
+R802 [shape=diamond]
+R829->D830
+R829 [label=R]
+R829 [shape=diamond]
+E832->D833
+E832->M834
+E832->S839
+E832 [label=E]
+E832 [shape=box]
+I840->N841
+I840 [label=I]
+I840 [shape=diamond]
+M844->S845
+M844 [label=M]
+M844 [shape=box]
+D847->E848
+D847 [label=D]
+D847 [shape=diamond]
+L853 [label=L]
+L853 [shape=box]
+T854->E855
+T854 [label=T]
+T854 [shape=diamond]
+I861->S862
+I861->T881
+I861 [label=I]
+I861 [shape=diamond]
+L896->A897
+L896 [label=L]
+L896 [shape=diamond]
+A901->S902
+A901 [label=A]
+A901 [shape=box]
+I909->N910
+I909 [label=I]
+I909 [shape=diamond]
+D934->A935
+D934 [label=D]
+D934 [shape=diamond]
+N940->E941
+N940 [label=N]
+N940 [shape=diamond]
+N948 [label=N]
+N948 [shape=box]
+A950->L951
+A950 [label=A]
+A950 [shape=diamond]
+D954->E955
+D954->I957
+D954->S960
+D954 [label=D]
+D954 [shape=box]
+E961 [label=E]
+E961 [shape=box]
+I962->G963
+I962 [label=I]
+I962 [shape=diamond]
+N986->E987
+N986->I988
+N986 [label=N]
+N986 [shape=diamond]
+T991->E992
+T991->I998
+T991->S1033
+T991->U1034
+T991 [label=T]
+T991 [shape=box]
+G1046->H1047
+G1046 [label=G]
+G1046 [shape=diamond]
+L1049->I1050
+L1049 [label=L]
+L1049 [shape=diamond]
+G8 [label=G]
+G8 [shape=box]
+S13 [label=S]
+S13 [shape=box]
+A18->R19
+A18 [label=A]
+A18 [shape=diamond]
+O23->L24
+O23 [label=O]
+O23 [shape=diamond]
+H33->H34
+H33 [label=H]
+H33 [shape=box]
+S37 [label=S]
+S37 [shape=box]
+G41->E42
+G41 [label=G]
+G41 [shape=diamond]
+S49 [label=S]
+S49 [shape=box]
+E54->R55
+E54 [label=E]
+E54 [shape=diamond]
+I59->N60
+I59 [label=I]
+I59 [shape=diamond]
+O65->R66
+O65 [label=O]
+O65 [shape=diamond]
+S69->E70
+S69 [label=S]
+S69 [shape=box]
+S76 [label=S]
+S76 [shape=box]
+N79->E80
+N79 [label=N]
+N79 [shape=diamond]
+E84->R85
+E84 [label=E]
+E84 [shape=diamond]
+S88 [label=S]
+S88 [shape=box]
+E91->D92
+E91 [label=E]
+E91 [shape=diamond]
+I93->N94
+I93 [label=I]
+I93 [shape=diamond]
+O96->N97
+O96 [label=O]
+O96 [shape=diamond]
+S120 [label=S]
+S120 [shape=box]
+C123->A124
+C123 [label=C]
+C123 [shape=diamond]
+D128->L129
+D128 [label=D]
+D128 [shape=box]
+M131->E132
+M131 [label=M]
+M131 [shape=diamond]
+R136->S137
+R136 [label=R]
+R136 [shape=box]
+S138 [label=S]
+S138 [shape=box]
+E140->D141
+E140->S144
+E140 [label=E]
+E140 [shape=diamond]
+I145->N146
+I145 [label=I]
+I145 [shape=diamond]
+L148->E149
+L148 [label=L]
+L148 [shape=diamond]
+M152->E153
+M152 [label=M]
+M152 [shape=diamond]
+A158->S159
+A158 [label=A]
+A158 [shape=box]
+N160->G161
+N160 [label=N]
+N160 [shape=diamond]
+B165->L166
+B165 [label=B]
+B165 [shape=diamond]
+D169 [label=D]
+D169 [shape=box]
+M170->E171
+M170 [label=M]
+M170 [shape=diamond]
+R175->S176
+R175 [label=R]
+R175 [shape=box]
+S177 [label=S]
+S177 [shape=box]
+N179->G180
+N179 [label=N]
+N179 [shape=diamond]
+S181->E182
+S181 [label=S]
+S181 [shape=box]
+R185->S186
+R185 [label=R]
+R185 [shape=box]
+I188->S189
+I188 [label=I]
+I188 [shape=diamond]
+O192->I193
+O192 [label=O]
+O192 [shape=diamond]
+U196 [label=U]
+U196 [shape=box]
+R198->E199
+R198 [label=R]
+R198 [shape=diamond]
+A203->L204
+A203 [label=A]
+A203 [shape=diamond]
+L205->E206
+L205 [label=L]
+L205 [shape=diamond]
+S209 [label=S]
+S209 [shape=box]
+I213->E214
+I213 [label=I]
+I213 [shape=diamond]
+Y216 [label=Y]
+Y216 [shape=box]
+I219->A220
+I219 [label=I]
+I219 [shape=diamond]
+S225->E226
+S225 [label=S]
+S225 [shape=box]
+S229 [label=S]
+S229 [shape=box]
+C232->I233
+C232->Y236
+C232 [label=C]
+C232 [shape=diamond]
+S237->H238
+S237 [label=S]
+S237 [shape=box]
+V244->I245
+V244 [label=V]
+V244 [shape=diamond]
+S269 [label=S]
+S269 [shape=box]
+L272->O273
+L272 [label=L]
+L272 [shape=diamond]
+S280 [label=S]
+S280 [shape=box]
+A283->B284
+A283->N287
+A283->T289
+A283 [label=A]
+A283 [shape=diamond]
+E306->N307
+E306 [label=E]
+E306 [shape=diamond]
+I309->N310
+I309 [label=I]
+I309 [shape=diamond]
+E327->D328
+E327->N329
+E327->S334
+E327 [label=E]
+E327 [shape=box]
+I335->N336
+I335 [label=I]
+I335 [shape=diamond]
+T338->E339
+T338->I343
+T338->O349
+T338->S354
+T338 [label=T]
+T338 [shape=box]
+I359->N360
+I359 [label=I]
+I359 [shape=diamond]
+S362 [label=S]
+S362 [shape=box]
+D365->A366
+D365 [label=D]
+D365 [shape=diamond]
+I375->N376
+I375 [label=I]
+I375 [shape=diamond]
+H380 [label=H]
+H380 [shape=box]
+S383 [label=S]
+S383 [shape=box]
+A385->N386
+A385->S387
+A385 [label=A]
+A385 [shape=box]
+O389->S390
+O389 [label=O]
+O389 [shape=diamond]
+E395->V396
+E395 [label=E]
+E395 [shape=diamond]
+E402->T403
+E402 [label=E]
+E402 [shape=diamond]
+A410->N411
+A410->T423
+A410 [label=A]
+A410 [shape=diamond]
+I438->V439
+I438 [label=I]
+I438 [shape=diamond]
+E444->N445
+E444 [label=E]
+E444 [shape=diamond]
+A450->L451
+A450 [label=A]
+A450 [shape=diamond]
+E453->D454
+E453->R455
+E453 [label=E]
+E453 [shape=diamond]
+I457->N458
+I457 [label=I]
+I457 [shape=diamond]
+O460->R461
+O460 [label=O]
+O460 [shape=diamond]
+N465->C466
+N465->T473
+N465 [label=N]
+N465 [shape=diamond]
+A477->D478
+A477 [label=A]
+A477 [shape=diamond]
+R483->I484
+R483->Y487
+R483 [label=R]
+R483 [shape=diamond]
+I491->N492
+I491 [label=I]
+I491 [shape=diamond]
+R498->E499
+R498->I514
+R498 [label=R]
+R498 [shape=diamond]
+S518 [label=S]
+S518 [shape=box]
+N522->C523
+N522 [label=N]
+N522 [shape=diamond]
+E527->N528
+E527 [label=E]
+E527 [shape=diamond]
+D530 [label=D]
+D530 [shape=box]
+R531->S532
+R531 [label=R]
+R531 [shape=box]
+S533 [label=S]
+S533 [shape=box]
+N535->G536
+N535 [label=N]
+N535 [shape=diamond]
+I543->C544
+I543 [label=I]
+I543 [shape=diamond]
+I547->L548
+I547 [label=I]
+I547 [shape=diamond]
+T552->I553
+T552->Y556
+T552 [label=T]
+T552 [shape=diamond]
+E559->N560
+E559 [label=E]
+E559 [shape=diamond]
+O584->G585
+O584 [label=O]
+O584 [shape=diamond]
+E591->S592
+E591 [label=E]
+E591 [shape=diamond]
+I593->S594
+I593 [label=I]
+I593 [shape=diamond]
+I596->C597
+I596 [label=I]
+I596 [shape=diamond]
+R602->O603
+R602 [label=R]
+R602 [shape=diamond]
+I613->T614
+I613 [label=I]
+I613 [shape=diamond]
+R628->I629
+R628->S634
+R628 [label=R]
+R628 [shape=box]
+T638->E639
+T638->I641
+T638->L647
+T638->N649
+T638->S655
+T638 [label=T]
+T638 [shape=box]
+N658->T659
+N658 [label=N]
+N658 [shape=diamond]
+C668->T669
+C668 [label=C]
+C668 [shape=diamond]
+A675->T676
+A675 [label=A]
+A675 [shape=diamond]
+E681->D682
+E681->R683
+E681->S685
+E681 [label=E]
+E681 [shape=box]
+I686->N687
+I686 [label=I]
+I686 [shape=diamond]
+T692->A693
+T692 [label=T]
+T692 [shape=diamond]
+E700->D701
+E700->S702
+E700 [label=E]
+E700 [shape=box]
+I703->N704
+I703->O706
+I703->T709
+I703->V714
+I703 [label=I]
+I703 [shape=diamond]
+O721->R722
+O721 [label=O]
+O721 [shape=diamond]
+T725->S726
+T725 [label=T]
+T725 [shape=box]
+E728 [label=E]
+E728 [shape=box]
+A732->T733
+A732 [label=A]
+A732 [shape=diamond]
+S737->M738
+S737->T740
+S737 [label=S]
+S737 [shape=diamond]
+T744 [label=T]
+T744 [shape=box]
+S746 [label=S]
+S746 [shape=box]
+G749->S750
+G749 [label=G]
+G749 [shape=box]
+S751 [label=S]
+S751 [shape=box]
+M754 [label=M]
+M754 [shape=box]
+N758->T759
+N758 [label=N]
+N758 [shape=diamond]
+H762 [label=H]
+H762 [shape=box]
+E764->D765
+E764 [label=E]
+E764 [shape=diamond]
+I766->O767
+I766 [label=I]
+I766 [shape=diamond]
+O773->M774
+O773 [label=O]
+O773 [shape=diamond]
+S783 [label=S]
+S783 [shape=box]
+A787->T788
+A787 [label=A]
+A787 [shape=diamond]
+M803->A804
+M803->I818
+M803->O824
+M803 [label=M]
+M803 [shape=diamond]
+D830 [label=D]
+D830 [shape=box]
+D833 [label=D]
+D833 [shape=box]
+M834->E835
+M834 [label=M]
+M834 [shape=diamond]
+S839 [label=S]
+S839 [shape=box]
+N841->G842
+N841 [label=N]
+N841 [shape=diamond]
+S845 [label=S]
+S845 [shape=box]
+E848->A849
+E848 [label=E]
+E848 [shape=diamond]
+E855->A856
+E855 [label=E]
+E855 [shape=diamond]
+S862->H863
+S862 [label=S]
+S862 [shape=diamond]
+T881->I882
+T881 [label=T]
+T881 [shape=diamond]
+A897->E898
+A897->S899
+A897 [label=A]
+A897 [shape=box]
+S902->A903
+S902->I905
+S902->U906
+S902 [label=S]
+S902 [shape=box]
+N910->A911
+N910 [label=N]
+N910 [shape=diamond]
+A935->N936
+A935 [label=A]
+A935 [shape=diamond]
+E941->M942
+E941 [label=E]
+E941 [shape=diamond]
+L951->L952
+L951 [label=L]
+L951 [shape=box]
+E955->D956
+E955 [label=E]
+E955 [shape=diamond]
+I957->N958
+I957 [label=I]
+I957 [shape=diamond]
+S960 [label=S]
+S960 [shape=box]
+G963->E964
+G963->I967
+G963 [label=G]
+G963 [shape=diamond]
+E987 [label=E]
+E987 [shape=box]
+I988->N989
+I988 [label=I]
+I988 [shape=diamond]
+E992->D993
+E992->E994
+E992->R996
+E992 [label=E]
+E992 [shape=diamond]
+I998->C999
+I998->F1004
+I998->N1012
+I998->O1014
+I998->V1023
+I998 [label=I]
+I998 [shape=diamond]
+S1033 [label=S]
+S1033 [shape=box]
+U1034->A1035
+U1034->S1041
+U1034 [label=U]
+U1034 [shape=diamond]
+H1047->T1048
+H1047 [label=H]
+H1047 [shape=diamond]
+I1050->A1051
+I1050->C1053
+I1050 [label=I]
+I1050 [shape=diamond]
+R19->K20
+R19 [label=R]
+R19 [shape=diamond]
+L24->F25
+L24->V26
+L24 [label=L]
+L24 [shape=diamond]
+H34 [label=H]
+H34 [shape=box]
+E42->L43
+E42 [label=E]
+E42 [shape=diamond]
+R55->I56
+R55 [label=R]
+R55 [shape=diamond]
+N60->A61
+N60 [label=N]
+N60 [shape=diamond]
+R66->S67
+R66 [label=R]
+R66 [shape=box]
+E70->S71
+E70 [label=E]
+E70 [shape=diamond]
+E80->S81
+E80 [label=E]
+E80 [shape=box]
+R85->E86
+R85 [label=R]
+R85 [shape=diamond]
+D92 [label=D]
+D92 [shape=box]
+N94->G95
+N94 [label=N]
+N94 [shape=diamond]
+N97->E98
+N97->I106
+N97->M109
+N97->S114
+N97->W115
+N97 [label=N]
+N97 [shape=box]
+A124->L125
+A124 [label=A]
+A124 [shape=diamond]
+L129->Y130
+L129 [label=L]
+L129 [shape=diamond]
+E132->N133
+E132 [label=E]
+E132 [shape=diamond]
+S137 [label=S]
+S137 [shape=box]
+D141->L142
+D141 [label=D]
+D141 [shape=box]
+S144 [label=S]
+S144 [shape=box]
+N146->G147
+N146 [label=N]
+N146 [shape=diamond]
+E149->S150
+E149 [label=E]
+E149 [shape=diamond]
+E153->N154
+E153 [label=E]
+E153 [shape=diamond]
+S159 [label=S]
+S159 [shape=box]
+G161 [label=G]
+G161 [shape=box]
+L166->E167
+L166 [label=L]
+L166 [shape=diamond]
+E171->N172
+E171 [label=E]
+E171 [shape=diamond]
+S176 [label=S]
+S176 [shape=box]
+G180 [label=G]
+G180 [shape=box]
+E182->S183
+E182 [label=E]
+E182 [shape=diamond]
+S186 [label=S]
+S186 [shape=box]
+S189->E190
+S189 [label=S]
+S189 [shape=box]
+I193->R194
+I193 [label=I]
+I193 [shape=diamond]
+E199->S200
+E199 [label=E]
+E199 [shape=box]
+L204 [label=L]
+L204 [shape=box]
+E206 [label=E]
+E206 [shape=box]
+E214->S215
+E214 [label=E]
+E214 [shape=diamond]
+A220->L221
+A220 [label=A]
+A220 [shape=diamond]
+E226->S227
+E226 [label=E]
+E226 [shape=diamond]
+I233->E234
+I233 [label=I]
+I233 [shape=diamond]
+Y236 [label=Y]
+Y236 [shape=box]
+H238->I239
+H238 [label=H]
+H238 [shape=diamond]
+I245->A246
+I245 [label=I]
+I245 [shape=diamond]
+O273->M274
+O273 [label=O]
+O273 [shape=diamond]
+B284->L285
+B284 [label=B]
+B284 [shape=diamond]
+N287->T288
+N287 [label=N]
+N287 [shape=diamond]
+T289->E290
+T289->I293
+T289->O301
+T289 [label=T]
+T289 [shape=diamond]
+N307->S308
+N307 [label=N]
+N307 [shape=box]
+N310->A311
+N310->O316
+N310 [label=N]
+N310 [shape=diamond]
+D328 [label=D]
+D328 [shape=box]
+N329->S330
+N329->T331
+N329 [label=N]
+N329 [shape=diamond]
+S334 [label=S]
+S334 [shape=box]
+N336->G337
+N336 [label=N]
+N336 [shape=diamond]
+E339->D340
+E339->E341
+E339 [label=E]
+E339 [shape=diamond]
+I343->N344
+I343->O346
+I343 [label=I]
+I343 [shape=diamond]
+O349->R350
+O349 [label=O]
+O349 [shape=diamond]
+S354 [label=S]
+S354 [shape=box]
+N360->G361
+N360 [label=N]
+N360 [shape=diamond]
+A366->R367
+A366 [label=A]
+A366 [shape=diamond]
+N376->G377
+N376 [label=N]
+N376 [shape=diamond]
+N386 [label=N]
+N386 [shape=box]
+S387 [label=S]
+S387 [shape=box]
+S390->K391
+S390 [label=S]
+S390 [shape=diamond]
+V396->I397
+V396 [label=V]
+V396 [shape=diamond]
+T403->H404
+T403 [label=T]
+T403 [shape=diamond]
+N411->C412
+N411->T419
+N411 [label=N]
+N411 [shape=diamond]
+T423->E424
+T423->I427
+T423 [label=T]
+T423 [shape=diamond]
+V439->E440
+V439 [label=V]
+V439 [shape=diamond]
+N445->T446
+N445 [label=N]
+N445 [shape=diamond]
+L451->S452
+L451 [label=L]
+L451 [shape=box]
+D454 [label=D]
+D454 [shape=box]
+R455->S456
+R455 [label=R]
+R455 [shape=box]
+N458->G459
+N458 [label=N]
+N458 [shape=diamond]
+R461->S462
+R461 [label=R]
+R461 [shape=box]
+C466->E467
+C466->I469
+C466->Y472
+C466 [label=C]
+C466 [shape=diamond]
+T473 [label=T]
+T473 [shape=box]
+D478->S479
+D478 [label=D]
+D478 [shape=box]
+I484->E485
+I484 [label=I]
+I484 [shape=diamond]
+Y487->S488
+Y487 [label=Y]
+Y487 [shape=box]
+N492->A493
+N492 [label=N]
+N492 [shape=diamond]
+E499->D500
+E499->N501
+E499->R512
+E499 [label=E]
+E499 [shape=diamond]
+I514->N515
+I514 [label=I]
+I514 [shape=diamond]
+C523->E524
+C523 [label=C]
+C523 [shape=diamond]
+N528 [label=N]
+N528 [shape=box]
+S532 [label=S]
+S532 [shape=box]
+G536->L537
+G536->S539
+G536 [label=G]
+G536 [shape=box]
+C544 [label=C]
+C544 [shape=box]
+L548->S549
+L548 [label=L]
+L548 [shape=box]
+I553->E554
+I553 [label=I]
+I553 [shape=diamond]
+Y556 [label=Y]
+Y556 [shape=box]
+N560->E561
+N560->I574
+N560 [label=N]
+N560 [shape=diamond]
+G585->I586
+G585 [label=G]
+G585 [shape=diamond]
+S592 [label=S]
+S592 [shape=box]
+S594 [label=S]
+S594 [shape=box]
+C597->A598
+C597 [label=C]
+C597 [shape=box]
+O603->P604
+O603 [label=O]
+O603 [shape=diamond]
+T614->A615
+T614 [label=T]
+T614 [shape=diamond]
+I629->E630
+I629 [label=I]
+I629 [shape=diamond]
+S634 [label=S]
+S634 [shape=box]
+E639->D640
+E639 [label=E]
+E639 [shape=diamond]
+I641->N642
+I641->O644
+I641 [label=I]
+I641 [shape=diamond]
+L647->Y648
+L647 [label=L]
+L647 [shape=diamond]
+N649->E650
+N649 [label=N]
+N649 [shape=diamond]
+S655 [label=S]
+S655 [shape=box]
+T659->E660
+T659->I662
+T659->S665
+T659 [label=T]
+T659 [shape=box]
+T669->I670
+T669 [label=T]
+T669 [shape=diamond]
+T676->I677
+T676 [label=T]
+T676 [shape=diamond]
+D682 [label=D]
+D682 [shape=box]
+R683->S684
+R683 [label=R]
+R683 [shape=box]
+S685 [label=S]
+S685 [shape=box]
+N687->G688
+N687 [label=N]
+N687 [shape=diamond]
+A693->T694
+A693 [label=A]
+A693 [shape=diamond]
+D701 [label=D]
+D701 [shape=box]
+S702 [label=S]
+S702 [shape=box]
+N704->G705
+N704 [label=N]
+N704 [shape=diamond]
+O706->N707
+O706 [label=O]
+O706 [shape=diamond]
+T709->I710
+T709 [label=T]
+T709 [shape=diamond]
+V714->A715
+V714->E717
+V714 [label=V]
+V714 [shape=diamond]
+R722->S723
+R722 [label=R]
+R722 [shape=box]
+S726 [label=S]
+S726 [shape=box]
+T733->E734
+T733 [label=T]
+T733 [shape=diamond]
+M738->S739
+M738 [label=M]
+M738 [shape=box]
+T740->S741
+T740 [label=T]
+T740 [shape=box]
+S750 [label=S]
+S750 [shape=box]
+T759->S760
+T759 [label=T]
+T759 [shape=box]
+D765 [label=D]
+D765 [shape=box]
+O767->N768
+O767 [label=O]
+O767 [shape=diamond]
+M774->A775
+M774 [label=M]
+M774 [shape=diamond]
+T788->E789
+T788->I792
+T788->O798
+T788 [label=T]
+T788 [shape=diamond]
+A804->L805
+A804 [label=A]
+A804 [shape=diamond]
+I818->T819
+I818 [label=I]
+I818 [shape=diamond]
+O824->U825
+O824 [label=O]
+O824 [shape=diamond]
+E835->N836
+E835 [label=E]
+E835 [shape=diamond]
+G842 [label=G]
+G842 [shape=box]
+A849->U850
+A849 [label=A]
+A849 [shape=diamond]
+A856->U857
+A856 [label=A]
+A856 [shape=diamond]
+H863->A864
+H863->E868
+H863->I873
+H863->M876
+H863 [label=H]
+H863 [shape=box]
+I882->O883
+I882 [label=I]
+I882 [shape=diamond]
+E898 [label=E]
+E898 [shape=box]
+S899 [label=S]
+S899 [shape=box]
+A903->L904
+A903 [label=A]
+A903 [shape=box]
+I905 [label=I]
+I905 [shape=box]
+U906->M907
+U906->S908
+U906 [label=U]
+U906 [shape=diamond]
+A911->B912
+A911->T920
+A911 [label=A]
+A911 [shape=diamond]
+N936->C937
+N936 [label=N]
+N936 [shape=diamond]
+M942->E943
+M942 [label=M]
+M942 [shape=diamond]
+L952->Y953
+L952 [label=L]
+L952 [shape=diamond]
+D956 [label=D]
+D956 [shape=box]
+N958->G959
+N958 [label=N]
+N958 [shape=diamond]
+E964->N965
+E964 [label=E]
+E964 [shape=diamond]
+I967->N968
+I967 [label=I]
+I967 [shape=diamond]
+N989->G990
+N989 [label=N]
+N989 [shape=diamond]
+D993 [label=D]
+D993 [shape=box]
+E994->S995
+E994 [label=E]
+E994 [shape=box]
+R996->S997
+R996 [label=R]
+R996 [shape=box]
+C999->I1000
+C999 [label=C]
+C999 [shape=diamond]
+F1004->A1005
+F1004 [label=F]
+F1004 [shape=diamond]
+N1012->G1013
+N1012 [label=N]
+N1012 [shape=diamond]
+O1014->N1015
+O1014 [label=O]
+O1014 [shape=diamond]
+V1023->E1024
+V1023 [label=V]
+V1023 [shape=diamond]
+A1035->R1036
+A1035 [label=A]
+A1035 [shape=diamond]
+S1041->E1042
+S1041 [label=S]
+S1041 [shape=box]
+T1048 [label=T]
+T1048 [shape=box]
+A1051->S1052
+A1051 [label=A]
+A1051 [shape=box]
+C1053 [label=C]
+C1053 [shape=box]
+K20->S21
+K20 [label=K]
+K20 [shape=box]
+F25 [label=F]
+F25 [shape=box]
+V26->E27
+V26 [label=V]
+V26 [shape=diamond]
+L43->S44
+L43 [label=L]
+L43 [shape=box]
+I56->A57
+I56 [label=I]
+I56 [shape=diamond]
+A61->L62
+A61 [label=A]
+A61 [shape=diamond]
+S67 [label=S]
+S67 [shape=box]
+S71 [label=S]
+S71 [shape=box]
+S81 [label=S]
+S81 [shape=box]
+E86->S87
+E86 [label=E]
+E86 [shape=box]
+G95 [label=G]
+G95 [shape=box]
+E98->D99
+E98->E102
+E98->R104
+E98 [label=E]
+E98 [shape=diamond]
+I106->N107
+I106 [label=I]
+I106 [shape=diamond]
+M109->E110
+M109 [label=M]
+M109 [shape=diamond]
+S114 [label=S]
+S114 [shape=box]
+W115->A116
+W115 [label=W]
+W115 [shape=diamond]
+L125 [label=L]
+L125 [shape=box]
+Y130 [label=Y]
+Y130 [shape=box]
+N133->T134
+N133 [label=N]
+N133 [shape=diamond]
+L142->Y143
+L142 [label=L]
+L142 [shape=diamond]
+G147 [label=G]
+G147 [shape=box]
+S150->S151
+S150 [label=S]
+S150 [shape=diamond]
+N154->T155
+N154 [label=N]
+N154 [shape=diamond]
+E167 [label=E]
+E167 [shape=box]
+N172->T173
+N172 [label=N]
+N172 [shape=diamond]
+S183 [label=S]
+S183 [shape=box]
+E190->S191
+E190 [label=E]
+E190 [shape=diamond]
+R194->S195
+R194 [label=R]
+R194 [shape=box]
+S200 [label=S]
+S200 [shape=box]
+S215 [label=S]
+S215 [shape=box]
+L221 [label=L]
+L221 [shape=box]
+S227 [label=S]
+S227 [shape=box]
+E234->S235
+E234 [label=E]
+E234 [shape=diamond]
+I239->P240
+I239 [label=I]
+I239 [shape=diamond]
+A246->T247
+A246 [label=A]
+A246 [shape=diamond]
+M274->B275
+M274 [label=M]
+M274 [shape=diamond]
+L285->E286
+L285 [label=L]
+L285 [shape=diamond]
+T288 [label=T]
+T288 [shape=box]
+E290->D291
+E290->S292
+E290 [label=E]
+E290 [shape=box]
+I293->N294
+I293->O296
+I293->V299
+I293 [label=I]
+I293 [shape=diamond]
+O301->R302
+O301 [label=O]
+O301 [shape=diamond]
+S308 [label=S]
+S308 [shape=box]
+A311->L312
+A311 [label=A]
+A311 [shape=box]
+O316->P317
+O316->U323
+O316 [label=O]
+O316 [shape=diamond]
+S330 [label=S]
+S330 [shape=box]
+T331->E332
+T331 [label=T]
+T331 [shape=box]
+G337 [label=G]
+G337 [shape=box]
+D340 [label=D]
+D340 [shape=box]
+E341->S342
+E341 [label=E]
+E341 [shape=box]
+N344->G345
+N344 [label=N]
+N344 [shape=diamond]
+O346->N347
+O346 [label=O]
+O346 [shape=diamond]
+R350->E351
+R350->S353
+R350 [label=R]
+R350 [shape=box]
+G361 [label=G]
+G361 [shape=box]
+R367->I368
+R367 [label=R]
+R367 [shape=diamond]
+G377 [label=G]
+G377 [shape=box]
+K391->S392
+K391 [label=K]
+K391 [shape=box]
+I397->N398
+I397 [label=I]
+I397 [shape=diamond]
+H404->I405
+H404->Y408
+H404 [label=H]
+H404 [shape=diamond]
+C412->E413
+C412->I415
+C412->Y418
+C412 [label=C]
+C412 [shape=diamond]
+T419->L420
+T419->S422
+T419 [label=T]
+T419 [shape=box]
+E424->D425
+E424->S426
+E424 [label=E]
+E424 [shape=box]
+I427->N428
+I427->O430
+I427 [label=I]
+I427 [shape=diamond]
+E440->S441
+E440 [label=E]
+E440 [shape=box]
+T446->S447
+T446 [label=T]
+T446 [shape=box]
+S452 [label=S]
+S452 [shape=box]
+S456 [label=S]
+S456 [shape=box]
+G459 [label=G]
+G459 [shape=box]
+S462 [label=S]
+S462 [shape=box]
+E467->S468
+E467 [label=E]
+E467 [shape=box]
+I469->E470
+I469 [label=I]
+I469 [shape=diamond]
+Y472 [label=Y]
+Y472 [shape=box]
+S479 [label=S]
+S479 [shape=box]
+E485->S486
+E485 [label=E]
+E485 [shape=diamond]
+S488 [label=S]
+S488 [shape=box]
+A493->B494
+A493 [label=A]
+A493 [shape=diamond]
+D500 [label=D]
+D500 [shape=box]
+N501->C502
+N501->T509
+N501 [label=N]
+N501 [shape=diamond]
+R512->S513
+R512 [label=R]
+R512 [shape=box]
+N515->G516
+N515 [label=N]
+N515 [shape=diamond]
+E524->S525
+E524 [label=E]
+E524 [shape=box]
+L537->Y538
+L537 [label=L]
+L537 [shape=diamond]
+S539 [label=S]
+S539 [shape=box]
+S549 [label=S]
+S549 [shape=box]
+E554->S555
+E554 [label=E]
+E554 [shape=diamond]
+E561->S562
+E561->T567
+E561 [label=E]
+E561 [shape=diamond]
+I574->C575
+I574->S580
+I574 [label=I]
+I574 [shape=diamond]
+I586->C587
+I586 [label=I]
+I586 [shape=diamond]
+A598->L599
+A598 [label=A]
+A598 [shape=diamond]
+P604->H605
+P604 [label=P]
+P604 [shape=diamond]
+A615->N616
+A615->T619
+A615 [label=A]
+A615 [shape=diamond]
+E630->N631
+E630 [label=E]
+E630 [shape=diamond]
+D640 [label=D]
+D640 [shape=box]
+N642->G643
+N642 [label=N]
+N642 [shape=diamond]
+O644->N645
+O644 [label=O]
+O644 [shape=diamond]
+Y648 [label=Y]
+Y648 [shape=box]
+E650->S651
+E650 [label=E]
+E650 [shape=diamond]
+E660->D661
+E660 [label=E]
+E660 [shape=diamond]
+I662->N663
+I662 [label=I]
+I662 [shape=diamond]
+S665 [label=S]
+S665 [shape=box]
+I670->O671
+I670 [label=I]
+I670 [shape=diamond]
+I677->O678
+I677 [label=I]
+I677 [shape=diamond]
+S684 [label=S]
+S684 [shape=box]
+G688 [label=G]
+G688 [shape=box]
+T694->I695
+T694 [label=T]
+T694 [shape=diamond]
+G705 [label=G]
+G705 [shape=box]
+N707->S708
+N707 [label=N]
+N707 [shape=box]
+I710->O711
+I710 [label=I]
+I710 [shape=diamond]
+A715->L716
+A715 [label=A]
+A715 [shape=diamond]
+E717->L718
+E717->S720
+E717 [label=E]
+E717 [shape=box]
+S723 [label=S]
+S723 [shape=box]
+E734->S735
+E734 [label=E]
+E734 [shape=box]
+S739 [label=S]
+S739 [shape=box]
+S741 [label=S]
+S741 [shape=box]
+S760 [label=S]
+S760 [shape=box]
+N768->A769
+N768->S772
+N768 [label=N]
+N768 [shape=box]
+A775->N776
+A775 [label=A]
+A775 [shape=diamond]
+E789->D790
+E789->S791
+E789 [label=E]
+E789 [shape=box]
+I792->N793
+I792->O795
+I792 [label=I]
+I792 [shape=diamond]
+O798->R799
+O798 [label=O]
+O798 [shape=diamond]
+L805->I806
+L805->L815
+L805->S817
+L805 [label=L]
+L805 [shape=box]
+T819->I820
+T819->Y823
+T819 [label=T]
+T819 [shape=diamond]
+U825->S826
+U825 [label=U]
+U825 [shape=diamond]
+N836->T837
+N836 [label=N]
+N836 [shape=diamond]
+U850->S851
+U850->X852
+U850 [label=U]
+U850 [shape=box]
+U857->S858
+U857->X859
+U857 [label=U]
+U857 [shape=box]
+A864->B865
+A864 [label=A]
+A864 [shape=diamond]
+E868->D869
+E868->R870
+E868->S872
+E868 [label=E]
+E868 [shape=diamond]
+I873->N874
+I873 [label=I]
+I873 [shape=diamond]
+M876->E877
+M876 [label=M]
+M876 [shape=diamond]
+O883->N884
+O883 [label=O]
+O883 [shape=diamond]
+L904 [label=L]
+L904 [shape=box]
+M907 [label=M]
+M907 [shape=box]
+S908 [label=S]
+S908 [shape=box]
+B912->L913
+B912 [label=B]
+B912 [shape=diamond]
+T920->E921
+T920->I924
+T920->O930
+T920 [label=T]
+T920 [shape=diamond]
+C937->E938
+C937 [label=C]
+C937 [shape=diamond]
+E943->N944
+E943 [label=E]
+E943 [shape=diamond]
+Y953 [label=Y]
+Y953 [shape=box]
+G959 [label=G]
+G959 [shape=box]
+N965->S966
+N965 [label=N]
+N965 [shape=box]
+N968->A969
+N968->E983
+N968->S985
+N968 [label=N]
+N968 [shape=box]
+G990 [label=G]
+G990 [shape=box]
+S995 [label=S]
+S995 [shape=box]
+S997 [label=S]
+S997 [shape=box]
+I1000->D1001
+I1000 [label=I]
+I1000 [shape=diamond]
+A1005->C1006
+A1005 [label=A]
+A1005 [shape=diamond]
+G1013 [label=G]
+G1013 [shape=box]
+N1015->A1016
+N1015->I1018
+N1015->S1022
+N1015 [label=N]
+N1015 [shape=box]
+E1024->L1025
+E1024->N1027
+E1024 [label=E]
+E1024 [shape=box]
+R1036->I1037
+R1036->Y1040
+R1036 [label=R]
+R1036 [shape=diamond]
+E1042->S1043
+E1042 [label=E]
+E1042 [shape=diamond]
+S1052 [label=S]
+S1052 [shape=box]
+S21 [label=S]
+S21 [shape=box]
+E27->S28
+E27 [label=E]
+E27 [shape=diamond]
+S44 [label=S]
+S44 [shape=box]
+A57->L58
+A57 [label=A]
+A57 [shape=diamond]
+L62->L63
+L62 [label=L]
+L62 [shape=box]
+S87 [label=S]
+S87 [shape=box]
+D99->L100
+D99 [label=D]
+D99 [shape=box]
+E102->S103
+E102 [label=E]
+E102 [shape=box]
+R104->S105
+R104 [label=R]
+R104 [shape=box]
+N107->G108
+N107 [label=N]
+N107 [shape=diamond]
+E110->N111
+E110 [label=E]
+E110 [shape=diamond]
+A116->R117
+A116 [label=A]
+A116 [shape=diamond]
+T134->S135
+T134 [label=T]
+T134 [shape=box]
+Y143 [label=Y]
+Y143 [shape=box]
+S151 [label=S]
+S151 [shape=box]
+T155->S156
+T155 [label=T]
+T155 [shape=box]
+T173->S174
+T173 [label=T]
+T173 [shape=box]
+S191 [label=S]
+S191 [shape=box]
+S195 [label=S]
+S195 [shape=box]
+S235 [label=S]
+S235 [shape=box]
+P240->S241
+P240 [label=P]
+P240 [shape=box]
+T247->E248
+T247->I251
+T247->O257
+T247->U261
+T247 [label=T]
+T247 [shape=diamond]
+B275->S276
+B275 [label=B]
+B275 [shape=box]
+E286 [label=E]
+E286 [shape=box]
+D291 [label=D]
+D291 [shape=box]
+S292 [label=S]
+S292 [shape=box]
+N294->G295
+N294 [label=N]
+N294 [shape=diamond]
+O296->N297
+O296 [label=O]
+O296 [shape=diamond]
+V299->E300
+V299 [label=V]
+V299 [shape=diamond]
+R302->S303
+R302 [label=R]
+R302 [shape=box]
+L312->L313
+L312->S315
+L312 [label=L]
+L312 [shape=box]
+P317->L318
+P317 [label=P]
+P317 [shape=diamond]
+U323->S324
+U323 [label=U]
+U323 [shape=diamond]
+E332->S333
+E332 [label=E]
+E332 [shape=diamond]
+S342 [label=S]
+S342 [shape=box]
+G345 [label=G]
+G345 [shape=box]
+N347->S348
+N347 [label=N]
+N347 [shape=box]
+E351->S352
+E351 [label=E]
+E351 [shape=diamond]
+S353 [label=S]
+S353 [shape=box]
+I368->A369
+I368 [label=I]
+I368 [shape=diamond]
+S392 [label=S]
+S392 [shape=box]
+N398->E399
+N398 [label=N]
+N398 [shape=diamond]
+I405->E406
+I405 [label=I]
+I405 [shape=diamond]
+Y408 [label=Y]
+Y408 [shape=box]
+E413->S414
+E413 [label=E]
+E413 [shape=box]
+I415->E416
+I415 [label=I]
+I415 [shape=diamond]
+Y418 [label=Y]
+Y418 [shape=box]
+L420->Y421
+L420 [label=L]
+L420 [shape=diamond]
+S422 [label=S]
+S422 [shape=box]
+D425 [label=D]
+D425 [shape=box]
+S426 [label=S]
+S426 [shape=box]
+N428->G429
+N428 [label=N]
+N428 [shape=diamond]
+O430->N431
+O430 [label=O]
+O430 [shape=diamond]
+S441 [label=S]
+S441 [shape=box]
+S447 [label=S]
+S447 [shape=box]
+S468 [label=S]
+S468 [shape=box]
+E470->S471
+E470 [label=E]
+E470 [shape=diamond]
+S486 [label=S]
+S486 [shape=box]
+B494->L495
+B494 [label=B]
+B494 [shape=diamond]
+C502->E503
+C502->I505
+C502->Y508
+C502 [label=C]
+C502 [shape=diamond]
+T509->L510
+T509 [label=T]
+T509 [shape=box]
+S513 [label=S]
+S513 [shape=box]
+G516->S517
+G516 [label=G]
+G516 [shape=box]
+S525 [label=S]
+S525 [shape=box]
+Y538 [label=Y]
+Y538 [shape=box]
+S555 [label=S]
+S555 [shape=box]
+S562->E563
+S562->I565
+S562 [label=S]
+S562 [shape=diamond]
+T567->I568
+T567 [label=T]
+T567 [shape=diamond]
+C575->A576
+C575 [label=C]
+C575 [shape=box]
+S580->T581
+S580 [label=S]
+S580 [shape=diamond]
+C587->A588
+C587 [label=C]
+C587 [shape=diamond]
+L599->L600
+L599 [label=L]
+L599 [shape=diamond]
+H605->I606
+H605->Y610
+H605 [label=H]
+H605 [shape=diamond]
+N616->T617
+N616 [label=N]
+N616 [shape=diamond]
+T619->E620
+T619->I623
+T619 [label=T]
+T619 [shape=diamond]
+N631->T632
+N631 [label=N]
+N631 [shape=diamond]
+G643 [label=G]
+G643 [shape=box]
+N645->S646
+N645 [label=N]
+N645 [shape=box]
+S651->S652
+S651 [label=S]
+S651 [shape=diamond]
+D661 [label=D]
+D661 [shape=box]
+N663->G664
+N663 [label=N]
+N663 [shape=diamond]
+O671->N672
+O671 [label=O]
+O671 [shape=diamond]
+O678->N679
+O678 [label=O]
+O678 [shape=diamond]
+I695->O696
+I695 [label=I]
+I695 [shape=diamond]
+S708 [label=S]
+S708 [shape=box]
+O711->U712
+O711 [label=O]
+O711 [shape=diamond]
+L716 [label=L]
+L716 [shape=box]
+L718->Y719
+L718 [label=L]
+L718 [shape=diamond]
+S720 [label=S]
+S720 [shape=box]
+S735 [label=S]
+S735 [shape=box]
+A769->R770
+A769 [label=A]
+A769 [shape=diamond]
+S772 [label=S]
+S772 [shape=box]
+N776->E777
+N776 [label=N]
+N776 [shape=diamond]
+D790 [label=D]
+D790 [shape=box]
+S791 [label=S]
+S791 [shape=box]
+N793->G794
+N793 [label=N]
+N793 [shape=diamond]
+O795->N796
+O795 [label=O]
+O795 [shape=diamond]
+R799->S800
+R799 [label=R]
+R799 [shape=box]
+I806->S807
+I806->T810
+I806 [label=I]
+I806 [shape=diamond]
+L815->Y816
+L815 [label=L]
+L815 [shape=diamond]
+S817 [label=S]
+S817 [shape=box]
+I820->E821
+I820 [label=I]
+I820 [shape=diamond]
+Y823 [label=Y]
+Y823 [shape=box]
+S826 [label=S]
+S826 [shape=box]
+T837->S838
+T837 [label=T]
+T837 [shape=box]
+S851 [label=S]
+S851 [shape=box]
+X852 [label=X]
+X852 [shape=box]
+S858 [label=S]
+S858 [shape=box]
+X859 [label=X]
+X859 [shape=box]
+B865->L866
+B865 [label=B]
+B865 [shape=diamond]
+D869 [label=D]
+D869 [shape=box]
+R870->S871
+R870 [label=R]
+R870 [shape=box]
+S872 [label=S]
+S872 [shape=box]
+N874->G875
+N874 [label=N]
+N874 [shape=diamond]
+E877->N878
+E877 [label=E]
+E877 [shape=diamond]
+N884->A885
+N884->I889
+N884->S895
+N884 [label=N]
+N884 [shape=box]
+L913->E914
+L913->Y919
+L913 [label=L]
+L913 [shape=diamond]
+E921->D922
+E921->S923
+E921 [label=E]
+E921 [shape=box]
+I924->N925
+I924->O927
+I924 [label=I]
+I924 [shape=diamond]
+O930->R931
+O930 [label=O]
+O930 [shape=diamond]
+E938->S939
+E938 [label=E]
+E938 [shape=box]
+N944->T945
+N944 [label=N]
+N944 [shape=diamond]
+S966 [label=S]
+S966 [shape=box]
+A969->L970
+A969 [label=A]
+A969 [shape=diamond]
+E983->S984
+E983 [label=E]
+E983 [shape=box]
+S985 [label=S]
+S985 [shape=box]
+D1001->E1002
+D1001 [label=D]
+D1001 [shape=diamond]
+C1006->I1007
+C1006 [label=C]
+C1006 [shape=diamond]
+A1016->L1017
+A1016 [label=A]
+A1016 [shape=diamond]
+I1018->S1019
+I1018 [label=I]
+I1018 [shape=diamond]
+S1022 [label=S]
+S1022 [shape=box]
+L1025->Y1026
+L1025 [label=L]
+L1025 [shape=diamond]
+N1027->E1028
+N1027 [label=N]
+N1027 [shape=diamond]
+I1037->E1038
+I1037 [label=I]
+I1037 [shape=diamond]
+Y1040 [label=Y]
+Y1040 [shape=box]
+S1043 [label=S]
+S1043 [shape=box]
+S28 [label=S]
+S28 [shape=box]
+L58 [label=L]
+L58 [shape=box]
+L63->Y64
+L63 [label=L]
+L63 [shape=diamond]
+L100->Y101
+L100 [label=L]
+L100 [shape=diamond]
+S103 [label=S]
+S103 [shape=box]
+S105 [label=S]
+S105 [shape=box]
+G108 [label=G]
+G108 [shape=box]
+N111->T112
+N111 [label=N]
+N111 [shape=diamond]
+R117->E118
+R117 [label=R]
+R117 [shape=diamond]
+S135 [label=S]
+S135 [shape=box]
+S156 [label=S]
+S156 [shape=box]
+S174 [label=S]
+S174 [shape=box]
+S241 [label=S]
+S241 [shape=box]
+E248->D249
+E248->S250
+E248 [label=E]
+E248 [shape=box]
+I251->N252
+I251->O254
+I251 [label=I]
+I251 [shape=diamond]
+O257->R258
+O257 [label=O]
+O257 [shape=diamond]
+U261->R262
+U261 [label=U]
+U261 [shape=diamond]
+S276 [label=S]
+S276 [shape=box]
+G295 [label=G]
+G295 [shape=box]
+N297->S298
+N297 [label=N]
+N297 [shape=box]
+E300 [label=E]
+E300 [shape=box]
+S303 [label=S]
+S303 [shape=box]
+L313->Y314
+L313 [label=L]
+L313 [shape=diamond]
+S315 [label=S]
+S315 [shape=box]
+L318->A319
+L318 [label=L]
+L318 [shape=diamond]
+S324 [label=S]
+S324 [shape=box]
+S333 [label=S]
+S333 [shape=box]
+S348 [label=S]
+S348 [shape=box]
+S352 [label=S]
+S352 [shape=box]
+A369->N370
+A369 [label=A]
+A369 [shape=diamond]
+E399->S400
+E399 [label=E]
+E399 [shape=box]
+E406->S407
+E406 [label=E]
+E406 [shape=diamond]
+S414 [label=S]
+S414 [shape=box]
+E416->S417
+E416 [label=E]
+E416 [shape=diamond]
+Y421 [label=Y]
+Y421 [shape=box]
+G429 [label=G]
+G429 [shape=box]
+N431->A432
+N431->S434
+N431 [label=N]
+N431 [shape=box]
+S471 [label=S]
+S471 [shape=box]
+L495->E496
+L495 [label=L]
+L495 [shape=diamond]
+E503->S504
+E503 [label=E]
+E503 [shape=box]
+I505->E506
+I505 [label=I]
+I505 [shape=diamond]
+Y508 [label=Y]
+Y508 [shape=box]
+L510->Y511
+L510 [label=L]
+L510 [shape=diamond]
+S517 [label=S]
+S517 [shape=box]
+E563->S564
+E563 [label=E]
+E563 [shape=diamond]
+I565->S566
+I565 [label=I]
+I565 [shape=diamond]
+I568->C569
+I568 [label=I]
+I568 [shape=diamond]
+A576->L577
+A576 [label=A]
+A576 [shape=diamond]
+T581->S582
+T581 [label=T]
+T581 [shape=box]
+A588->L589
+A588 [label=A]
+A588 [shape=diamond]
+L600->Y601
+L600 [label=L]
+L600 [shape=diamond]
+I606->C607
+I606->E608
+I606 [label=I]
+I606 [shape=diamond]
+Y610 [label=Y]
+Y610 [shape=box]
+T617->S618
+T617 [label=T]
+T617 [shape=box]
+E620->D621
+E620->S622
+E620 [label=E]
+E620 [shape=box]
+I623->N624
+I623 [label=I]
+I623 [shape=diamond]
+T632->S633
+T632 [label=T]
+T632 [shape=box]
+S646 [label=S]
+S646 [shape=box]
+S652->E653
+S652 [label=S]
+S652 [shape=box]
+G664 [label=G]
+G664 [shape=box]
+N672->S673
+N672 [label=N]
+N672 [shape=box]
+N679->S680
+N679 [label=N]
+N679 [shape=box]
+O696->N697
+O696 [label=O]
+O696 [shape=diamond]
+U712->S713
+U712 [label=U]
+U712 [shape=diamond]
+Y719 [label=Y]
+Y719 [shape=box]
+R770->Y771
+R770 [label=R]
+R770 [shape=diamond]
+E777->S778
+E777 [label=E]
+E777 [shape=box]
+G794 [label=G]
+G794 [shape=box]
+N796->S797
+N796 [label=N]
+N796 [shape=box]
+S800 [label=S]
+S800 [shape=box]
+S807->M808
+S807 [label=S]
+S807 [shape=diamond]
+T810->I811
+T810->Y814
+T810 [label=T]
+T810 [shape=diamond]
+Y816 [label=Y]
+Y816 [shape=box]
+E821->S822
+E821 [label=E]
+E821 [shape=diamond]
+S838 [label=S]
+S838 [shape=box]
+L866->E867
+L866 [label=L]
+L866 [shape=diamond]
+S871 [label=S]
+S871 [shape=box]
+G875 [label=G]
+G875 [shape=box]
+N878->T879
+N878 [label=N]
+N878 [shape=diamond]
+A885->L886
+A885->R887
+A885 [label=A]
+A885 [shape=diamond]
+I889->S890
+I889 [label=I]
+I889 [shape=diamond]
+S895 [label=S]
+S895 [shape=box]
+E914->N915
+E914 [label=E]
+E914 [shape=box]
+Y919 [label=Y]
+Y919 [shape=box]
+D922 [label=D]
+D922 [shape=box]
+S923 [label=S]
+S923 [shape=box]
+N925->G926
+N925 [label=N]
+N925 [shape=diamond]
+O927->N928
+O927 [label=O]
+O927 [shape=diamond]
+R931->S932
+R931 [label=R]
+R931 [shape=box]
+S939 [label=S]
+S939 [shape=box]
+T945->S946
+T945 [label=T]
+T945 [shape=box]
+L970->I971
+L970->L980
+L970->S982
+L970 [label=L]
+L970 [shape=box]
+S984 [label=S]
+S984 [shape=box]
+E1002->S1003
+E1002 [label=E]
+E1002 [shape=box]
+I1007->E1008
+I1007 [label=I]
+I1007 [shape=diamond]
+L1017 [label=L]
+L1017 [shape=box]
+S1019->T1020
+S1019 [label=S]
+S1019 [shape=diamond]
+Y1026 [label=Y]
+Y1026 [shape=box]
+E1028->S1029
+E1028 [label=E]
+E1028 [shape=diamond]
+E1038->S1039
+E1038 [label=E]
+E1038 [shape=diamond]
+Y64 [label=Y]
+Y64 [shape=box]
+Y101 [label=Y]
+Y101 [shape=box]
+T112->S113
+T112 [label=T]
+T112 [shape=box]
+E118->S119
+E118 [label=E]
+E118 [shape=box]
+D249 [label=D]
+D249 [shape=box]
+S250 [label=S]
+S250 [shape=box]
+N252->G253
+N252 [label=N]
+N252 [shape=diamond]
+O254->N255
+O254 [label=O]
+O254 [shape=diamond]
+R258->S259
+R258->Y260
+R258 [label=R]
+R258 [shape=box]
+R262->E263
+R262 [label=R]
+R262 [shape=diamond]
+S298 [label=S]
+S298 [shape=box]
+Y314 [label=Y]
+Y314 [shape=box]
+A319->S320
+A319 [label=A]
+A319 [shape=diamond]
+N370->S371
+N370 [label=N]
+N370 [shape=box]
+S400 [label=S]
+S400 [shape=box]
+S407 [label=S]
+S407 [shape=box]
+S417 [label=S]
+S417 [shape=box]
+A432->L433
+A432 [label=A]
+A432 [shape=diamond]
+S434 [label=S]
+S434 [shape=box]
+E496 [label=E]
+E496 [shape=box]
+S504 [label=S]
+S504 [shape=box]
+E506->S507
+E506 [label=E]
+E506 [shape=diamond]
+Y511 [label=Y]
+Y511 [shape=box]
+S564 [label=S]
+S564 [shape=box]
+S566 [label=S]
+S566 [shape=box]
+C569->A570
+C569 [label=C]
+C569 [shape=box]
+L577->L578
+L577 [label=L]
+L577 [shape=diamond]
+S582 [label=S]
+S582 [shape=box]
+L589 [label=L]
+L589 [shape=box]
+Y601 [label=Y]
+Y601 [shape=box]
+C607 [label=C]
+C607 [shape=box]
+E608->S609
+E608 [label=E]
+E608 [shape=diamond]
+S618 [label=S]
+S618 [shape=box]
+D621 [label=D]
+D621 [shape=box]
+S622 [label=S]
+S622 [shape=box]
+N624->G625
+N624 [label=N]
+N624 [shape=diamond]
+S633 [label=S]
+S633 [shape=box]
+E653->S654
+E653 [label=E]
+E653 [shape=diamond]
+S673 [label=S]
+S673 [shape=box]
+S680 [label=S]
+S680 [shape=box]
+N697->S698
+N697 [label=N]
+N697 [shape=box]
+S713 [label=S]
+S713 [shape=box]
+Y771 [label=Y]
+Y771 [shape=box]
+S778 [label=S]
+S778 [shape=box]
+S797 [label=S]
+S797 [shape=box]
+M808->S809
+M808 [label=M]
+M808 [shape=box]
+I811->E812
+I811 [label=I]
+I811 [shape=diamond]
+Y814 [label=Y]
+Y814 [shape=box]
+S822 [label=S]
+S822 [shape=box]
+E867 [label=E]
+E867 [shape=box]
+T879->S880
+T879 [label=T]
+T879 [shape=box]
+L886 [label=L]
+L886 [shape=box]
+R887->Y888
+R887 [label=R]
+R887 [shape=diamond]
+S890->M891
+S890->T893
+S890 [label=S]
+S890 [shape=diamond]
+N915->E916
+N915 [label=N]
+N915 [shape=diamond]
+G926 [label=G]
+G926 [shape=box]
+N928->S929
+N928 [label=N]
+N928 [shape=box]
+S932 [label=S]
+S932 [shape=box]
+S946 [label=S]
+S946 [shape=box]
+I971->S972
+I971->T975
+I971 [label=I]
+I971 [shape=diamond]
+L980->Y981
+L980 [label=L]
+L980 [shape=diamond]
+S982 [label=S]
+S982 [shape=box]
+S1003 [label=S]
+S1003 [shape=box]
+E1008->N1009
+E1008 [label=E]
+E1008 [shape=diamond]
+T1020->S1021
+T1020 [label=T]
+T1020 [shape=box]
+S1029->S1030
+S1029 [label=S]
+S1029 [shape=diamond]
+S1039 [label=S]
+S1039 [shape=box]
+S113 [label=S]
+S113 [shape=box]
+S119 [label=S]
+S119 [shape=box]
+G253 [label=G]
+G253 [shape=box]
+N255->S256
+N255 [label=N]
+N255 [shape=box]
+S259 [label=S]
+S259 [shape=box]
+Y260 [label=Y]
+Y260 [shape=box]
+E263->S264
+E263 [label=E]
+E263 [shape=box]
+S320->T321
+S320 [label=S]
+S320 [shape=diamond]
+S371 [label=S]
+S371 [shape=box]
+L433 [label=L]
+L433 [shape=box]
+S507 [label=S]
+S507 [shape=box]
+A570->L571
+A570 [label=A]
+A570 [shape=diamond]
+L578->Y579
+L578 [label=L]
+L578 [shape=diamond]
+S609 [label=S]
+S609 [shape=box]
+G625 [label=G]
+G625 [shape=box]
+S654 [label=S]
+S654 [shape=box]
+S698 [label=S]
+S698 [shape=box]
+S809 [label=S]
+S809 [shape=box]
+E812->S813
+E812 [label=E]
+E812 [shape=diamond]
+S880 [label=S]
+S880 [shape=box]
+Y888 [label=Y]
+Y888 [shape=box]
+M891->S892
+M891 [label=M]
+M891 [shape=box]
+T893->S894
+T893 [label=T]
+T893 [shape=box]
+E916->S917
+E916 [label=E]
+E916 [shape=diamond]
+S929 [label=S]
+S929 [shape=box]
+S972->M973
+S972 [label=S]
+S972 [shape=diamond]
+T975->I976
+T975->Y979
+T975 [label=T]
+T975 [shape=diamond]
+Y981 [label=Y]
+Y981 [shape=box]
+N1009->T1010
+N1009 [label=N]
+N1009 [shape=diamond]
+S1021 [label=S]
+S1021 [shape=box]
+S1030->E1031
+S1030 [label=S]
+S1030 [shape=box]
+S256 [label=S]
+S256 [shape=box]
+S264 [label=S]
+S264 [shape=box]
+T321->Y322
+T321 [label=T]
+T321 [shape=diamond]
+L571->L572
+L571 [label=L]
+L571 [shape=diamond]
+Y579 [label=Y]
+Y579 [shape=box]
+S813 [label=S]
+S813 [shape=box]
+S892 [label=S]
+S892 [shape=box]
+S894 [label=S]
+S894 [shape=box]
+S917->S918
+S917 [label=S]
+S917 [shape=diamond]
+M973->S974
+M973 [label=M]
+M973 [shape=box]
+I976->E977
+I976 [label=I]
+I976 [shape=diamond]
+Y979 [label=Y]
+Y979 [shape=box]
+T1010->S1011
+T1010 [label=T]
+T1010 [shape=box]
+E1031->S1032
+E1031 [label=E]
+E1031 [shape=diamond]
+Y322 [label=Y]
+Y322 [shape=box]
+L572->Y573
+L572 [label=L]
+L572 [shape=diamond]
+S918 [label=S]
+S918 [shape=box]
+S974 [label=S]
+S974 [shape=box]
+E977->S978
+E977 [label=E]
+E977 [shape=diamond]
+S1011 [label=S]
+S1011 [shape=box]
+S1032 [label=S]
+S1032 [shape=box]
+Y573 [label=Y]
+Y573 [shape=box]
+S978 [label=S]
+S978 [shape=box]
+}
