@@ -1,3 +1,14 @@
+# Setup
+
+Using: 
+```
+$ node --version
+v10.15.1
+
+$ npm --version
+6.4.1
+```
+
 # Running stuff
 
 Run one Test
@@ -49,6 +60,8 @@ Note: For this version of boggle 'Qu' is not one cube and we do print duplicates
 ## Debugging
 
 Wanna see what the trie looks like for a small word sample?
+
+To instal dot see: https://www.graphviz.org
 
 Diamonds are possibly words, squares are necessarily words 
 ```
