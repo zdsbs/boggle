@@ -1,0 +1,145 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Boggling</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<style>
+    input {
+      font-size: 20px;
+    }
+		.letter {
+			color:green;
+			width: 40px;
+			height: 40px;
+      font-size: 20px;
+		}
+	</style>
+
+</head>
+<body>
+ 
+<form action="/" id="boggleForm">
+  <input type="text" name="letters" value="abcdefghijklmnop">
+  <input type="submit" value="Boggling">
+</form>
+
+<form action="/" id="boggleGridForm">
+	<table>
+		<tr>
+			<td>
+  			<input type="text" name="1" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="2" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="3" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="4" class="letter" maxLength="1" size="1">
+			</td>
+		</tr>
+		<tr>
+			<td>
+  			<input type="text" name="5" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="6" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="7" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="8" class="letter" maxLength="1" size="1">
+			</td>
+		</tr>
+		<tr>
+			<td>
+  			<input type="text" name="9" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="10" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="11" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="12" class="letter" maxLength="1" size="1">
+			</td>
+		</tr>
+		<tr>
+			<td>
+  			<input type="text" name="13" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="14" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="15" class="letter" maxLength="1" size="1">
+			</td>
+			<td>
+  			<input type="text" name="16" class="letter" maxLength="1" size="1">
+			</td>
+		</tr>
+	</table>
+  <input type="submit" value="Boggling">
+</form>
+
+<ul id="result"></ul>
+<div id="err"></div>
+<script>
+$( "#boggleForm" ).submit(function( event ) {
+ 
+  event.preventDefault();
+ 
+  var $form = $( this ),
+    letters = $form.find( "input[name='letters']" ).val(),
+    url = $form.attr( "action" );
+ 
+  $.post(url, 
+		{letters: letters},
+		function(data, status) {
+			$("#err").empty();
+			$("#result").empty();
+			if(data.err) {
+				$("#err").empty().append(data.err);
+				return;
+			}
+			for(var i = 0; i < data.words.length; i++) {
+				$("#result").append("<li>"+data.words[i]);
+			}
+		}
+	);
+ 
+});
+$( "#boggleGridForm" ).submit(function( event ) {
+  event.preventDefault();
+ 
+  var $form = $( this ),
+    url = $form.attr( "action" );
+ 
+	var letters = '';
+	for (var i = 1; i< 17; i++) {
+		letters = letters + ($form.find( "input[name='"+i+"']" ).val());
+	}
+	console.log(letters);
+	console.log(letters.length);
+  $.post(url, 
+		{letters: letters},
+		function(data, status) {
+			$("#err").empty();
+			$("#result").empty();
+			if(data.err) {
+				$("#err").empty().append(data.err);
+				return;
+			}
+			for(var i = 0; i < data.words.length; i++) {
+				$("#result").append("<li>"+data.words[i]);
+			}
+		}
+	);
+ 
+});
+</script>
+</body>
+</html>

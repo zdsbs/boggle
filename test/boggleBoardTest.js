@@ -23,11 +23,11 @@ describe('BoggleBoard', function() {
     const boggleBoard = new BoggleBoard([['a','b','c'],
                                          ['d','e','f'],
                                          ['g','h','i']]);
-    assert.deepEqual(boggleBoard.getNeighborIds('0 0'),['0 1','1 0','1 1']);
-    assert.deepEqual(boggleBoard.getNeighborIds('1 0'),['0 0','0 1','1 1','2 0','2 1']);
-    assert.deepEqual(boggleBoard.getNeighborIds('2 0'),['1 0', '1 1', '2 1']);
-    assert.deepEqual(boggleBoard.getNeighborIds('1 1'),['0 0','0 1','0 2','1 0','1 2','2 0','2 1','2 2']);
-    assert.deepEqual(boggleBoard.getNeighborIds('2 2'),['1 1','1 2','2 1']);
+    assert.deepEqual(boggleBoard.getNeighborIds(0,0),['0 1','1 0','1 1']);
+    assert.deepEqual(boggleBoard.getNeighborIds(1,0),['0 0','0 1','1 1','2 0','2 1']);
+    assert.deepEqual(boggleBoard.getNeighborIds(2,0),['1 0', '1 1', '2 1']);
+    assert.deepEqual(boggleBoard.getNeighborIds(1,1),['0 0','0 1','0 2','1 0','1 2','2 0','2 1','2 2']);
+    assert.deepEqual(boggleBoard.getNeighborIds(2,2),['1 1','1 2','2 1']);
   });
 
   it('Get square', function() {

@@ -10,16 +10,25 @@ Run all the Tests
 npm test
 ```
 
-eslint
-```
-./node_modules/.bin/eslint test/
-./node_modules/.bin/eslint lib/
-```
-
 ## Trie it on the command line
 
 ```
 node scripts/boggleSolver.js abcdefghijklmnop
+```
+
+## Trie it in the browser
+```
+node index.js
+```
+
+or in dev
+```
+npm run dev
+```
+
+Hit it at:
+```
+http://localhost:3000
 ```
 
 # Boggle Stuff
@@ -34,6 +43,9 @@ dictionary:
 https://boardgames.stackexchange.com/questions/38366/latest-collins-scrabble-words-list-in-text-file
 https://drive.google.com/file/d/0B9-WNydZzCHrdDVEc09CamJOZHc/view
 ```
+
+Note: For this version of boggle 'Qu' is not one cube and we do print duplicates
+
 ## Debugging
 
 Wanna see what the trie looks like for a small word sample?
